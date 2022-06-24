@@ -1,4 +1,15 @@
 # refractor-code
+6/23/22 Second submission:
+
+Links:
+https://github.com/cassandrakise/refractor-code 
+https://cassandrakise.github.io/refractor-code/
+
+Screenshot:
+![ScreenShot](refractorCodeScreenshot1.png)
+![ScreenShot](refractorCodeScreenshot2.png)
+________________
+6/16/22 First submission:
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -11,5 +22,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-First submission!
